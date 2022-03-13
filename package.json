@@ -1,0 +1,17 @@
+{
+  "name": "getir-nodejs",
+  "version": "1.0.0",
+  "description": "getir nodeJS assignment ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "Kunal Vats",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
