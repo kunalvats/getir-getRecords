@@ -21,7 +21,7 @@ app.use('/api', routes);
 /**
  * Start server
 */
-const port = config.PORT || 3000;
+const port = process.env.PORT || config.PORT;
 app.listen(port, () => {
     console.log(`Server is up and running on port ${port}`);
 });
