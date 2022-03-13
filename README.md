@@ -47,12 +47,12 @@ Sample Response -
         {
             "key": "ibfRLaFT",
             "createdAt": "2016-12-25T16:43:27.909Z",
-            "totalCount": 2892
+            "totalCount": 2700
         },
         {
             "key": "pxClAvll",
             "createdAt": "2016-12-19T10:00:40.050Z",
-            "totalCount": 2772
+            "totalCount": 3000
         }
     ]
 }
